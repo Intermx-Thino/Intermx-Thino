@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Intermx-Thino
 - 👀 I’m interested in Cybersecurity, Data Science and DevOps
 - 🌱 I’m currently learning Cloud Security and Kubernetes
-- 💞️ I’m looking to collaborate on my interest 
+- 💞️ I’m looking to collaborate on my fields of interst
 - 📫 How to reach me @genaromayeles
 
 <!---
